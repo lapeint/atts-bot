@@ -6,8 +6,8 @@
 
 ## Commands
 
-> - `!help`: Displays a list of available commands.
-> - TTS is non a commands , its available everywhere.
+- `!help`: Displays a list of available commands.
+- TTS is non a commands , its available everywhere.
 
 
 ## Goals
