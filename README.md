@@ -7,7 +7,7 @@
 ## 🧠 Commands
 
 - `!help`: Displays a list of available commands.
-- TTS is non a commands , its available everywhere.
+- `!tts`: is non a commands , its available everywhere.
 
 
 ## 🏁 Goals
