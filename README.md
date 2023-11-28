@@ -6,7 +6,7 @@
 
 ## Commands
 
-1. `!help`: Displays a list of available commands.
+> `!help`: Displays a list of available commands.
 
 
 ## Goals
