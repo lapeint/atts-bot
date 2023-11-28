@@ -1,16 +1,16 @@
 # TTS Bot Overview
 
-## Functionality
+## 📚 Functionality
 - **Text-to-Speech (TTS)**: Transform text messages into lifelike spoken voices.
 
 
-## Commands
+## 🧠 Commands
 
 - `!help`: Displays a list of available commands.
 - TTS is non a commands , its available everywhere.
 
 
-## Goals
+## 🏁 Goals
 
 - Make your conversation exciting.
 
